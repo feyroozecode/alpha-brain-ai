@@ -1,4 +1,4 @@
-# AI Brain Kit
+# ALPHA AI Brain Kit
 
 **A replicable system for AI-assisted development inspired by Andrej Karpathy second brain with Obsidian that keeps full project context
 without re-analyzing the codebase every session.**
