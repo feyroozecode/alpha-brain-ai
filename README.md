@@ -34,7 +34,8 @@ cd alpha-brain-ai.git
 # 1. Bootstrap — detects your stack (Node/React/NestJS, Flutter, Python, Go,
 #    Rust, Laravel, Rails, Android, iOS, monorepos...) and generates an
 #    adapted ai-brain/ + starter CLAUDE.md + .gitignore entries
-bash ai-brain-kit/scripts/init-ai-brain.sh /path/to/your/project
+#    use this next command to generate the proejct if you are in the racine of your project if not use this instead bash ai-brain-kit/scripts/init-ai-brain.sh /path/your-project
+bash ai-brain-kit/scripts/init-ai-brain.sh .
 
 # 2. One-time fill — paste ai-brain/FIRST_FILL_PROMPT.md to your AI agent.
 #    This is the LAST broad codebase scan the project should ever need.
