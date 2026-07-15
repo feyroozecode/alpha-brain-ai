@@ -28,6 +28,9 @@ rituals cheap and automatic.
 ## Quick start (any project)
 
 ```bash
+# 0. Clone this repo from the racine of your project 
+git clone https://github.com/feyroozecode/alpha-brain-ai.git
+cd alpha-brain-ai.git
 # 1. Bootstrap — detects your stack (Node/React/NestJS, Flutter, Python, Go,
 #    Rust, Laravel, Rails, Android, iOS, monorepos...) and generates an
 #    adapted ai-brain/ + starter CLAUDE.md + .gitignore entries
