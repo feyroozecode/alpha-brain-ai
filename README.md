@@ -1,9 +1,9 @@
 # AI Brain Kit
 
-**A replicable system for AI-assisted development that keeps full project context
+**A replicable system for AI-assisted development inspired by Andrej Karpathy second brain with Obsidian that keeps full project context
 without re-analyzing the codebase every session.**
 
-Extracted from GMaintain SaaS — a multi-tenant CMMS (37 backend modules,
+Extracted from Web SaaS — a multi-tenant Management System (37 backend modules,
 ~2M tokens of source, 95 test suites / 1,534 tests) built primarily with AI
 agents by a single engineer. On that project the compressed brain replaces
 ~500K tokens of cold-start codebase scanning with ~3–30K tokens of curated
